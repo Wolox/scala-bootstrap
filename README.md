@@ -1,1 +1,1 @@
-# slaca-bootstrap
+# scala-bootstrap
